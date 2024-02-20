@@ -6,7 +6,7 @@ The repository is based on the [devcontainerPythonGUIWM](https://github.com/Walt
 
 I'm currently a Software Engineer specializing in Python. These scripts and concepts will likely still be simple and may not always follow best practices because these are meant to be notes.
 
-### The code
+## The code
 
 Files (mostly Jupyter notebooks) in the `concepts` directory illustrate various concepts/ideas/built-ins related to Python.
 
