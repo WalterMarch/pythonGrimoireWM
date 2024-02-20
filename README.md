@@ -1,32 +1,16 @@
-# devcontainerPythonGUIWM - Visual Studio Code devcontainer for Python and tkinter
+# Python Grimoire
 
-## Sample Dev Container file(s) for Python and tkinter  in VS Code Containerized Development
+## a book of Python (programming) magic
 
-*assumptions*: Docker and VS Code installed as well as the Dev Containers extension for Visual Studio Code.
+The repository is based on the [devcontainerPythonGUIWM](https://github.com/WalterMarch/devcontainerPythonGUIWM) template repo and is a part of the larger [Grimoire Programmatica](https://github.com/WalterMarch/grimoireprogrammatica) project.
 
-*usage*: clone the repo then open in Visual Studio Code.
+I'm currently a Software Engineer sepcializing in Python. These scripts and concepts will likely still be simple and may not always follow best practices because these are meant to be notes.
 
-*example*:  clone the repo; open a new VS Code window; open the directory containing this repo; when prompted, choose Reopen in Container. 
+### The code
 
-This devcontainer is based on the latest Python 3 image (`mcr.microsoft.com/devcontainers/python:3`).
 
-`tk` is installed by `post-create.sh`.
 
-The following line in the `devcontainer.json` allows us to run a Python Tkinter GUI application from inside a VS Code devcontainer installation.
-
-```jsonc
-    "runArgs": ["-e DISPLAY=$DISPLAY"]
-```
-
-## Run the Sample Code
-
-In the `sample` directory, run this command:
-
-```bash
-python tk_test.py
-```
-
-### miscellany
+## miscellany
 
 `configit.sh` looks like this:
 
