@@ -1,5 +1,5 @@
 {
-	"name": "devcontainerPythonGUIWM",
+	"name": "pythonGrimoireWM",
 	"image": "mcr.microsoft.com/devcontainers/python:3",
     "mounts": [
 		"source=${localEnv:HOME}${localEnv:USERPROFILE}/.ssh,target=/home/vscode/.ssh,type=bind"
