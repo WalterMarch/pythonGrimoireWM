@@ -6,13 +6,14 @@ The repository is based on the [devcontainerPythonGUIWM](https://github.com/Walt
 
 I'm currently a Software Engineer specializing in Python. These scripts and concepts will likely still be simple and may not always follow best practices because these are meant to be notes.
 
-## The code
+### Repository Structure
 
-Files (mostly Jupyter notebooks) in the `concepts` directory illustrate various concepts/ideas/built-ins related to Python.
+To enhance the magic theme, I'm going to use the following structure:
 
-Files in `scripts_and_functions` are complete Python scripts or functions meant to be used in other code.
-
-`tools.md` briefly touches on the use of the Python-related tools in this devcontainer.
+* [essentials](essentials/) - learning the basics of Python
+* [cantrips](cantrips/) - code snippets
+* [spells](spells/) - more complete programs or functions
+* [marginalia](marginalia) - miscellany jotted down for future reference and/or development.
 
 ## miscellany
 
